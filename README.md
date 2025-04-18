@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer in the making ⚙️ | Builder of ideas, breaker of bugs 🐛</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sparkles&label=Profile%20views&color=blueviolet&style=flat" alt="sparkles" />
+  <img src="https://avatars.githubusercontent.com/u/148036334?v=4&size=64" alt="sparkles" />
 </p>
 
 ---
@@ -33,7 +33,7 @@
 | **Game Explorer** | A platform to browse, wishlist, and review games with trailers, screenshots, and system requirements. | Next.js (React), SQL |
 | **Bus Ticketing System** | Book, cancel, and view bus tickets with fare details. | C++, SQLite |
 | **Energy Planner** | Helps consumers schedule appliance usage to minimize electricity bills based on dynamic pricing. | C++, SQLite |
-
+| **Rentinel** | 	A rent management system connecting property owners and tenants, with blacklisting, notifications, and rent tracking features. | Spring Boot, React, SQL |
 ---
 
 ### 📊 GitHub Stats
