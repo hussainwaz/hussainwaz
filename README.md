@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Sparkles</h1>
+<h1 align="center">Hey there 👋, I'm Hussain</h1>
 <h3 align="center">Software Engineer in the making ⚙️ | Builder of ideas, breaker of bugs 🐛</h3>
 
 <p align="center">
