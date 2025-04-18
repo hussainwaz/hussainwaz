@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer in the making ⚙️ | Builder of ideas, breaker of bugs 🐛</h3>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/148036334?v=4&size=64" alt="hussainawaz" style="border-radius: 50%; width: 150px; height: 150px;"/>
+  <img src="https://avatars.githubusercontent.com/u/148036334?v=4&size=64" alt="hussainawaz" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;"/>
 </p>
 
 ---
