@@ -1,6 +1,10 @@
 <h1 align="center">Hey there 👋, I'm Hussain</h1>
 <h3 align="center">Software Engineer in the making ⚙️ | Builder of ideas, breaker of bugs 🐛</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sparkles&label=Profile%20views&color=blueviolet&style=flat" alt="sparkles" />
+</p>
+
 ---
 
 ### 🚀 What I'm Up To
