@@ -24,11 +24,12 @@
 
 | 🚧 Project | 📜 Description | 🧰 Tech |
 |-----------|----------------|---------|
-| **Game Explorer** | A platform to browse, wishlist, and review games with trailers, screenshots, and system requirements. | Next.js (React), SQL |
-| **Bus Ticketing System** | Book, cancel, and view bus tickets with fare details. | C++, SQLite |
-| **Energy Planner** | Helps consumers schedule appliance usage to minimize electricity bills based on dynamic pricing. | C++, SQLite |
-| **Rentinel** | 	A rent management system connecting property owners and tenants, with blacklisting, notifications, and rent tracking features. | Spring Boot, React, SQL |
----
+| **Game Explorer** | A dynamic platform to browse, wishlist, and review games with trailers, screenshots, and system requirements, backed by SQL Server. | Next.js (React), SQL Server (SSMS) |
+| **Bus Ticketing System** | Desktop app to book, cancel, and manage bus tickets with route and fare details. | C++, WinForms, SQLite |
+| **Energy Planner** | Optimizes electricity usage by helping users schedule appliances based on time-based pricing to cut costs. | C++, WinForms, SQLite |
+| **Rentinel** | A full-stack rent management system connecting landlords and tenants with rent tracking, blacklisting, and automated notifications. | Spring Boot, React.js, SQL |
+| **Quest Runner** | A 2D platformer game with character movement, obstacles, and level progression. | C++, SFML |
+
 
 ### 📊 GitHub Stats
 <p align="left">
