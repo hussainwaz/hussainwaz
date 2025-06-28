@@ -1,118 +1,121 @@
-<h1 align="center">👋 Hi, I'm Hussain Nawaz</h1>
-<h3 align="center">Full-Stack Developer | Game Enthusiast | Problem Solver</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sparkles&label=Profile%20views&color=blueviolet&style=flat" alt="sparkles" />
-</p>
+# 🌟 Hussain Nawaz
+### `Digital Alchemist` • `Code Architect` • `Logic Artist`
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=7C3AED&center=true&vCenter=true&width=700&lines=Crafting+Digital+Masterpieces+%E2%9C%A8;Full-Stack+Developer+%7C+Problem+Solver;Turning+Ideas+into+Interactive+Reality;Welcome+to+My+Code+Universe+%F0%9F%9A%80" alt="Typing SVG" />
 
-
+<img src="https://komarev.com/ghpvc/?username=sparkles&label=Profile%20views&color=blueviolet&style=flat" />
+</div>
 ---
 
-## 🚀 My Tech Stack
-
-### 💻 Languages & Frameworks
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,express,spring,nodejs,java,cpp,js,ts,html,css,tailwind" />
-</p>
-
-### 🗃️ Databases & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,sqlite,mysql,mongodb,git,github,figma,ps,ai" />
-</p>
-
----
-
-## 🔥 Featured Projects
-
-### 🌐 Web Applications
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
-
-[![TaskNest](https://img.shields.io/badge/-TaskNest-6e5494?style=for-the-badge&logo=react&logoColor=white)](https://github.com/hussainwaz/tasknest)
-> Organize notes and tasks in a clean, interactive dashboard  
-> `React` `Express` `PostgreSQL` `Tailwind`  
-> [Live Demo](https://tasknestpro.vercel.app)
-
-[![Rentinel](https://img.shields.io/badge/-Rentinel-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/hussainwaz/Rentinel)
-> Property rental platform with multi-role dashboards  
-> `Spring Boot` `React` `SQL Server` `JWT`  
-> [View Code](https://github.com/hussainwaz/Rentinel)
-
-[![Game Explorer](https://img.shields.io/badge/-Game_Explorer-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://github.com/hussainwaz/game-explorer)
-> Browse and search games with trailers and reviews  
-> `Next.js` `Tailwind` `Express` `SQL`  
-> [Live Demo](https://gameexplorer.vercel.app)
+### 🎭 *"I don't just write code—I compose digital symphonies"*
 
 </div>
 
-### 🖥️ Desktop Applications
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
-
-[![VoltMaster](https://img.shields.io/badge/-VoltMaster-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/hussainwaz/VoltMaster)
-> Smart scheduling for optimized home power usage  
-> `C++` `WinForms` `SQLite`  
-> [View Code](https://github.com/hussainwaz/VoltMaster)
-
-[![JournEZ](https://img.shields.io/badge/-JournEZ-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/hussainwaz/BusTicketingApp)
-> Offline bus ticket booking system  
-> `C++` `WinForms` `File Handling`  
-> [View Code](https://github.com/hussainwaz/BusTicketingApp)
-
-</div>
-
-### 🎮 Games
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
-
-[![Quest Runner](https://img.shields.io/badge/-Quest_Runner-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/hussainwaz/Quest-Runner_2D-GAME)
-> Fast-paced 2D platformer game  
-> `C++` `SFML` `GameDev`  
-> [View Code](https://github.com/hussainwaz/Quest-Runner_2D-GAME)
-
-</div>
-
----
-
-## 📈 GitHub Stats
+<br>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hussainwaz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussainwaz&layout=compact&langs_count=8&theme=tokyonight"/>
+
+## 🛠️ Tech Arsenal
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,spring,java,cpp,js,ts,html,css,tailwind,postgres,mysql,mongodb,sqlite,git,github,figma,ps,ai&perline=10" />
+
 </div>
 
+<br>
+
+---
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hussainwaz&theme=tokyonight" alt="hussainwaz" />
+
+## 📊 GitHub Universe
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=hussainwaz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=00D9FF&text_color=C9D1D9" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussainwaz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=C9D1D9" />
+
+<img width="96%" src="https://github-readme-streak-stats.herokuapp.com/?user=hussainwaz&theme=tokyonight&hide_border=true&background=0D1117&stroke=7C3AED&ring=00D9FF&fire=FF6B6B&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=00D9FF&sideNums=7C3AED" />
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=hussainwaz&bg_color=0D1117&color=7C3AED&line=00D9FF&point=FF6B6B&area=true&hide_border=true&custom_title=Contribution%20Timeline" />
+
 </div>
 
 ---
 
-## 🌐 Connect With Me
+<div align="center">
 
-<p align="center">
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/hussainawaz" target="_blank"   style="margin-right: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
-  </a>
+## 🎯 Current Vibe
 
-  <!-- Gmail -->
- <a href="mailto:husanawaz@gmail.com" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/gmail-new.png" alt="Email" height="30" width="30" />
+```javascript
+const hussain = {
+    location: "Pakistan 🇵🇰",
+    currentFocus: ["Full-Stack Development", "Game Development", "UI/UX Design"],
+    workingOn: "Building the next big thing 🚀",
+    learningGoal: "Master the art of clean, scalable code",
+    funFact: "I debug with coffee and deploy with prayers ☕️🙏",
+    motto: "Code is poetry, bugs are just... abstract art 🎨"
+};
+
+console.log("Building tomorrow's web, one commit at a time ⚡");
+```
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌊 Code Philosophy
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🎨 **Design**
+*Beautiful interfaces that users love*
+
+Clean • Intuitive • Engaging
+
+</td>
+<td align="center" width="33%">
+
+### ⚡ **Performance**
+*Lightning-fast, optimized code*
+
+Efficient • Scalable • Reliable
+
+</td>
+<td align="center" width="33%">
+
+### 🚀 **Innovation**
+*Pushing boundaries, solving problems*
+
+Creative • Modern • Impactful
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 Let's Build Something Amazing
+
+<a href="https://linkedin.com/in/hussainawaz">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
+</a>
+<a href="mailto:husanawaz@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
+</a>
+<a href="https://hussainnawaz.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=7C3AED" />
 </a>
 
-   <a href="https://hussainnawaz.vercel.app/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Website" height="30" width="30" />
-  </a>
-</p>
-
-
 ---
 
-### 💡 Code Philosophy
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6,17,11&height=120&section=footer&text=Thanks%20for%20the%20visit!&fontSize=18&fontColor=ffffff&animation=fadeIn&fontAlignY=70"/>
 
-> “First, debug reality. Then, ship code.”  
-> — Probably a sleep-deprived dev
-
-> “Design the chaos. Tame it with code.”  
-> — Hacker’s way of saying *hello world*
-
-> “Step 1: Google the problem.  
-> Step 2: Pretend you knew it all along.”  
-> — Every dev ever
+</div>
