@@ -1,97 +1,74 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2000&pause=600&color=39D353&center=true&vCenter=true&width=600&lines=hussain%40github%3A~%24+whoami;%3E+Full-Stack+Developer;%3E+Game+Dev+%7C+UI%2FUX+Enthusiast;hussain%40github%3A~%24+_" alt="Typing SVG" />
+<img src="assets/header.svg" width="100%" alt="Hussain Nawaz — Full-Stack Developer" />
 
-</div>
+<img src="https://komarev.com/ghpvc/?username=hussainwaz&label=Profile+Views&color=7C3AED&style=for-the-badge" alt="Profile views" />
 
-```text
-██╗  ██╗██╗   ██╗███████╗███████╗ █████╗ ██╗███╗   ██╗
-██║  ██║██║   ██║██╔════╝██╔════╝██╔══██╗██║████╗  ██║
-███████║██║   ██║███████╗███████╗███████║██║██╔██╗ ██║
-██╔══██║██║   ██║╚════██║╚════██║██╔══██║██║██║╚██╗██║
-██║  ██║╚██████╔╝███████║███████║██║  ██║██║██║ ╚████║
-╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝
-```
+<img src="assets/divider.svg" width="100%" alt="" />
 
-## `$ neofetch`
+<img src="assets/title-about.svg" width="70%" alt="About Me" />
 
-```yaml
-            .---.            hussain@github
-           /     \           ──────────────────────────────
-           \.@-@./           Role:      Full-Stack Developer
-           /`\_/`\           Location:  Pakistan 🇵🇰
-          //  _  \\          Uptime:    always shipping
-         | \     )|_         Focus:     Web · Game Dev · UI/UX
-        /`\_`>  <_/ \        Editor:    VS Code (dark mode, obviously)
-        \__/'---'\__/        Currently: building the next big thing
-                             Fuel:      coffee ☕ → code → deploy 🚀
-                             Motto:     ship clean, scale later
-```
+🚀 &nbsp;Full-Stack Developer crafting web experiences, games, and interfaces
 
-## `$ ls ~/.tech-stack`
+🎯 &nbsp;Currently building **the next big thing**
 
-<div align="center">
+🌱 &nbsp;Mastering the art of clean, scalable code
 
-**`frontend/`**
+⚡ &nbsp;Fun fact: I debug with coffee and deploy with prayers ☕🙏
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind&theme=dark" alt="Frontend" />
+<img src="assets/divider.svg" width="100%" alt="" />
 
-**`backend/`**
+<img src="assets/title-stack.svg" width="70%" alt="Tech Arsenal" />
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,java,cpp&theme=dark" alt="Backend" />
+**Frontend**
 
-**`data/ & tools/`**
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind&theme=dark" alt="Frontend skills" />
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,git,github,figma,ps,ai&theme=dark" alt="Databases and Tools" />
+**Backend**
 
-</div>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,java,cpp&theme=dark" alt="Backend skills" />
 
-## `$ git log --stat`
+**Databases & Tools**
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,git,github,figma,ps,ai&theme=dark" alt="Databases and tools" />
 
-<img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" />
+<img src="assets/divider.svg" width="100%" alt="" />
 
-</div>
+<img src="assets/title-stats.svg" width="70%" alt="GitHub Analytics" />
 
-## `$ ./snake --eat-contributions`
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hussainwaz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=7C3AED&text_color=c9d1d9&ring_color=7C3AED" alt="GitHub stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussainwaz&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9" alt="Top languages" />
 
-<div align="center">
+<img width="98%" src="https://streak-stats.demolab.com?user=hussainwaz&hide_border=true&background=0d1117&stroke=7C3AED&ring=00D9FF&fire=FF6B9D&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=00D9FF&sideNums=7C3AED" alt="Contribution streak" />
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=hussainwaz&bg_color=0d1117&color=7C3AED&line=00D9FF&point=FF6B9D&area=true&hide_border=true&custom_title=Contribution%20Timeline" alt="Contribution graph" />
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+<img src="assets/title-snake.svg" width="70%" alt="Contribution Snake" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hussainwaz/hussainwaz/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hussainwaz/hussainwaz/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/hussainwaz/hussainwaz/output/github-snake.svg" alt="Snake eating my contribution graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/hussainwaz/hussainwaz/output/github-snake-dark.svg" alt="Snake eating my contribution graph" width="100%" />
 </picture>
 
-</div>
+<img src="assets/divider.svg" width="100%" alt="" />
 
-## `$ curl -s https://hussain.dev/contact`
-
-<div align="center">
+<img src="assets/title-connect.svg" width="70%" alt="Connect With Me" />
 
 <a href="https://linkedin.com/in/hussainawaz">
-  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=39d353" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn" />
 </a>
+&nbsp;
 <a href="mailto:husanawaz@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=39d353" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=FF6B9D" alt="Email" />
 </a>
+&nbsp;
 <a href="https://hussainnawaz.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=39d353" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=7C3AED" alt="Portfolio" />
 </a>
 
-<br /><br />
-
-<img src="https://komarev.com/ghpvc/?username=hussainwaz&label=visitors&color=39d353&style=flat-square" alt="Visitor count" />
-
-</div>
-
-<div align="center">
-
-```text
-hussain@github:~$ echo "thanks for stopping by — happy hacking"
-thanks for stopping by — happy hacking
-hussain@github:~$ ▌
-```
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6,17,11&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff&animation=fadeIn&fontAlignY=75" alt="Footer wave" />
 
 </div>
