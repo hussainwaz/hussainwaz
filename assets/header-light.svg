@@ -1,0 +1,14 @@
+<svg width="900" height="210" viewBox="0 0 900 210" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Hussain Nawaz — full-stack developer. Web, games, interfaces.">
+  <!-- eyebrow -->
+  <rect x="4" y="38" width="10" height="10" rx="2" fill="#5E6AD2"/>
+  <text x="26" y="48" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', 'Roboto Mono', Consolas, monospace" font-size="13" letter-spacing="1.5" fill="#999999">hussainwaz</text>
+
+  <!-- name -->
+  <text x="2" y="112" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="54" font-weight="600" letter-spacing="-1.5" fill="#171717">Hussain Nawaz</text>
+
+  <!-- role -->
+  <text x="4" y="152" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="400" fill="#666666">Full-stack developer. Web, games, interfaces.</text>
+
+  <!-- hairline -->
+  <line x1="0" y1="198.5" x2="900" y2="198.5" stroke="#EBEBEB" stroke-width="1"/>
+</svg>
