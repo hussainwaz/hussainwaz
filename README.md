@@ -4,31 +4,34 @@
   <img src="assets/header-light.svg" width="100%" alt="Hussain Nawaz. Full-stack engineer. Web, mobile, and on-device AI.">
 </picture>
 
-Software engineer in Lahore, Pakistan. I work full-time at **8x Social**, building consumer products end to end: Next.js on Supabase and Postgres for the web, React Native for apps that are live on the App Store and Google Play. I own features from the data model through to the interface, which is the part I enjoy most.
+Software engineer in Lahore, Pakistan. I build products end to end: Next.js and Postgres on the web, React Native on phones, and the interface on top, which is the part I enjoy most. Most things I make start in Figma before they reach an editor.
 
-Right now I am most interested in machine learning that runs **on the device** rather than on a server, and in the gap between a model's benchmark score and how it behaves once real conditions reach it.
+Lately I have been pulled toward the machine learning side, particularly models that run **on the device** rather than on a server, and the distance between a benchmark score and how a model behaves once real conditions reach it.
 
-### In production
+### Selected work
 
-Built at 8x Social, live and used by real people.
+**[potato-leaf-edge-ai](https://github.com/hussainwaz/potato-leaf-edge-ai)** · [live demo](https://potato-leaf-edge-ai-xi.vercel.app)
 
-- **[PocketPal](https://pocketpal.me)**: envelope budgeting with AI receipt scanning that reads printed, handwritten and multi-language receipts, in 150+ currencies. React Native, on both stores.
-- **[Luma](https://www.heyluma.app/en)**: a voice-first AI companion you can interrupt and switch languages with mid-sentence. Twelve voices, three languages. React Native, on both stores.
-- **[FirstPrompt](https://firstprompt.build)**: courses and prompt packs for people starting from zero with AI, in English, Türkçe and Português, priced per region. Next.js.
-- **[Tether](https://playtether.co)**: a one-thumb endless glider. The landscape behind the menus is not artwork, it is the game's own terrain function running. React Native.
+A leaf disease classifier that scores **100% on the studio dataset it was trained on, and 57.5% on real field photographs**, where guessing scores 50%. It also measures what shrinking a model for a device actually costs: the one-line int8 route came out 3.7x smaller and 2.2x *slower*, while static quantization with calibration data was smaller *and* faster. The demo runs the model inside your browser, so no image leaves your machine.
 
-### Things I built to find something out
+**[LLM Code Benchmarking](https://github.com/hussainwaz/LLM-Code-BenchMarker)**
 
-- **[potato-leaf-edge-ai](https://github.com/hussainwaz/potato-leaf-edge-ai)** ([demo](https://potato-leaf-edge-ai-xi.vercel.app)): a leaf disease classifier that scores **100% on the studio dataset it was trained on and 57.5% on real field photographs**, where guessing scores 50%. Also measures what shrinking a model for a device actually costs: the one-line int8 route came out 3.7x smaller and 2.2x *slower*, while static quantization with calibration data was smaller *and* faster. The demo runs the model in your browser, so no image leaves your machine.
-- **[LLM Code Benchmarking](https://github.com/hussainwaz/LLM-Code-BenchMarker)**: an evaluation harness that scores several language models on one shared problem set, with prompts held constant, and compares results per problem and per model.
-- **[MindMentor](https://github.com/hussainwaz/MindMentor)**: AI tutoring across DeepSeek R1, LLaMA 3.3 and Minimax M2, holding full conversation context, with automatic fallback when a model rate-limits. Next.js and FastAPI.
-- **[AI Log Explainer](https://github.com/hussainwaz/AI-Log-Explainer)**: turns raw production logs into a plain-language account of what happened and what to look at next.
+An evaluation harness that scores several language models against one shared problem set, holding prompts constant, then compares results per problem and per model.
 
-### Earlier
+**[MindMentor](https://github.com/hussainwaz/MindMentor)**
 
-Coursework and side projects, still up because the code is real.
-**[Rentinel](https://github.com/hussainwaz/Rentinel)** (property management, Spring Boot and React) · **[Quest Runner](https://github.com/hussainwaz/Quest-Runner_2D-GAME)** (2D platformer from scratch in C++ and SFML) · **[Tasknest](https://github.com/hussainwaz/Tasknest)** (distraction-free productivity app) · **[VoltMaster](https://github.com/hussainwaz/VoltMaster)** (appliance scheduling from a household electricity study, C++ and SQLite)
+AI tutoring across DeepSeek R1, LLaMA 3.3 and Minimax M2, holding full conversation context, with automatic fallback when a model rate-limits. Next.js and FastAPI.
+
+**[AI Log Explainer](https://github.com/hussainwaz/AI-Log-Explainer)**
+
+Turns raw production logs into a plain-language account of what happened and what to look at next.
+
+### Also built
+
+**[Rentinel](https://github.com/hussainwaz/Rentinel)** property management across owners, tenants, payments and notifications, in Spring Boot and React · **[Quest Runner](https://github.com/hussainwaz/Quest-Runner_2D-GAME)** a 2D platformer written from scratch in C++ with SFML · **[Tasknest](https://github.com/hussainwaz/Tasknest)** a deliberately distraction-free productivity app · **[VoltMaster](https://github.com/hussainwaz/VoltMaster)** appliance scheduling built from a household electricity study, in C++ and SQLite
 
 ### Elsewhere
 
 [hussainnawaz.vercel.app](https://hussainnawaz.vercel.app/) · [LinkedIn](https://linkedin.com/in/hussainawaz) · [husanawaz@gmail.com](mailto:husanawaz@gmail.com)
+
+<sub>The header is one self-contained SVG: type outlined from Bricolage Grotesque, motion in CSS keyframes, and it holds still if you have reduced motion turned on.</sub>
